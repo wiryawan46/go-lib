@@ -1,4 +1,4 @@
-module dgn-go-lib
+module go-lib
 
 go 1.18
 
