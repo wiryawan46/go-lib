@@ -1,4 +1,4 @@
-module go-lib
+module github.com/wiryawan46/go-lib
 
 go 1.18
 
